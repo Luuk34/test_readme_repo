@@ -1,1 +1,3 @@
 new README.md in folder test2
+
+trying to create a merge conflict...
